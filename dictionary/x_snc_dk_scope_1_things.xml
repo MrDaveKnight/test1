@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Things" max_length="40" name="x_snc_dk_scope_1_things" type="collection">
+        <element choice="1" label="Color" max_length="40" name="color" type="choice">
+            <choice>
+                <element label="-- New choice --" value="-- New choice --"/>
+                <element label="Red" sequence="0" value="red"/>
+                <element label="Yellow" sequence="1" value="yellow"/>
+                <element label="Green" sequence="2" value="green"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

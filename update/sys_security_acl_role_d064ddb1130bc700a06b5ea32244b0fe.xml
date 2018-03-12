@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>dave.knight</sys_created_by>
+        <sys_created_on>2017-12-15 22:00:14</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d064ddb1130bc700a06b5ea32244b0fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dk_scope_1_things.x_snc_dk_scope_1.things_user</sys_name>
+        <sys_package display_value="Scope 1" source="x_snc_dk_scope_1">c35f0531130bc700a06b5ea32244b038</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Scope 1">c35f0531130bc700a06b5ea32244b038</sys_scope>
+        <sys_security_acl display_value="x_snc_dk_scope_1_things">d464ddb1130bc700a06b5ea32244b0fb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d064ddb1130bc700a06b5ea32244b0fe</sys_update_name>
+        <sys_updated_by>dave.knight</sys_updated_by>
+        <sys_updated_on>2017-12-15 22:00:14</sys_updated_on>
+        <sys_user_role display_value="x_snc_dk_scope_1.things_user" name="x_snc_dk_scope_1.things_user">3f541db1130bc700a06b5ea32244b083</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
